@@ -49,6 +49,8 @@ The main script is named "attrition_edit.ipynb"
 
 ## Part 3: Summary
 
+Answer the following questions about this challenge.
+
 1. Is accuracy the best metric to use on this data? Why or why not?
 
 2. What activation functions did you choose for your output layers, and why?
